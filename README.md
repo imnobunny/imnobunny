@@ -3,7 +3,7 @@
 <!--
 **imnobunny/imnobunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Knows Javascript, ReactJS, VueJS, NodeJS and Laravel.
+Introverted Junior-Dev. Knows Javascript, ReactJS, VueJS, NodeJS and Laravel.
 
 <h2> Porfolios </h2>
 <strong>School Record Management System</strong>
