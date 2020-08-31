@@ -5,7 +5,7 @@
 
 Introverted Junior-Dev. Knows Javascript, ReactJS, VueJS, NodeJS and Laravel.
 
-<h2> Porfolios </h2>
+<h2> Portfolios </h2>
 <strong>School Record Management System</strong>
 - https://schoolrecordmanagementsystem.herokuapp.com/
 
